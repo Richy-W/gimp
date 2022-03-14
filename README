@@ -47,7 +47,7 @@ Links to several archives of the mailing lists are included in that page.
 Gimp-user-list is a mailing list dedicated to user problems, hints and
 tips, discussion of cool effects, etc.  Gimp-developer-list is oriented
 to GIMP core and plug-in developers.  Gimp-gui-list is for discussing
-about GIMP interface to improve user experience. Most people will only
+ GIMP interface to improve user experience. Most people will only
 want to be subscribed to gimp-user-list. If you want to help develop
 GIMP, the gimp-developer mailing list is a good starting point; if you
 want to help with GUI design, the gimp-gui list is where you want to
@@ -57,7 +57,7 @@ subscribe.
 3. IRC
 ======
 
-And finally, for the real junkies, there is an IRC channel devoted to
+Finally, for the real junkies, there is an IRC channel devoted to
 GIMP. On GIMPNet (a private free software oriented network) there is
 #gimp.  Many of the developers hang out there.  Some of the GIMPNet
 servers are:
